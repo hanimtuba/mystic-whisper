@@ -1,6 +1,6 @@
 class ApiConfig {
   // Gemini API key
-  static const String geminiApiKey = 'AIzaSyDEwB934UnJVFbfTi8g0JR-7iznBaUY1Og';
+  static const String geminiApiKey = '';
 
   // You can initialize the API key from environment variables or secure storage
   static String getGeminiApiKey() {
